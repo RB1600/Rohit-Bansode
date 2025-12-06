@@ -1,1 +1,12 @@
-# Rohit-Bansode
+# 💫 About Me:
+🔥 About Me<br><br>I'm a Full Stack Web Developer who actually builds things that work — not just tutorial clones. I work primarily with the MERN stack, focusing on clean architecture, secure authentication, and scalable backend systems. I care about code that’s fast, predictable, and easy to maintain (for me and whoever suffers after me).<br><br>I’ve worked on real-world projects during internships, including dashboards, admin panels, API integrations, and full-scale modules that went into production — not “college time pass” projects.<br><br>🧠 What I Bring To The Table<br><br>Strong command of JavaScript, TypeScript, React, Node.js, MongoDB, MySQL<br><br>Solid backend mindset — JWT auth, REST APIs, MVC patterns<br><br>Frontend that doesn’t look like it was built in 2010 — Tailwind, Material UI, reusable components<br><br>Experience fixing production bugs (the real learning)<br><br>Understanding of deployments, testing, and performance improvements<br><br>🚀 Notable Projects<br>AgriHub – Farm Equipment Rental Marketplace (MERN)<br><br>A full-stack platform with role-based auth, machine listing CRUD, Cloudinary uploads, and automated booking workflows. Eliminates the need for manual coordination between farmers and owners.<br><br>Field Inspection System (PHP + MySQL)<br><br>Digitized the inspection workflow for Zilla Parishad, Kolhapur. Includes planning, scheduling, geo-tagged uploads, dynamic forms, and auto-generated analytics.<br><br>🏗️ Tech Stack<br><br>Languages: JavaScript, TypeScript, HTML, CSS, C++, Python<br>Frontend: React.js, Redux Toolkit, Context API, Tailwind, Material UI<br>Backend: Node.js, Express.js, REST APIs, JWT, MVC<br>Database: MongoDB, MySQL<br>Tools: Git, GitHub, Postman, Vercel, VS Code<br><br>📫 Connect With Me<br><br>Portfolio: https://portfoliomir.netlify.app/<br><br>LinkedIn: linkedin.com/in/rpb16<br><br>GitHub: github.com/RB1600<br><br>Email: rohitb1600@gmail.com
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RB1600&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RB1600&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RB1600&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RB1600&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># Rohit-Bansode
